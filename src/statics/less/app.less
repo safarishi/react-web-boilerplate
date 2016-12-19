@@ -1,0 +1,24 @@
+html {
+  // border: 1px solid green;
+  height: 100%;
+  display: flex;
+  body {
+    flex: 1;
+    margin: 0;
+    display: flex;
+    #app {
+      flex: 1;
+      display: flex;
+    }
+  }
+}
+
+.rt-app-container {
+  flex: 1;
+  display: flex;
+  & > div {
+    flex: 1;
+  }
+}
+
+@import "../../components/container/style";
