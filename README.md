@@ -1,6 +1,6 @@
 # Boilerplate
 
-    Purpost for web development with react
+    Purpose for web development with react
 
 ## Features
 
