@@ -38,7 +38,7 @@ module.exports = {
     // Display only errors to reduce the amount of output.
     stats: 'errors-only',
     host: '0.0.0.0',
-    port: 9933,
+    port: 9211,
   },
   resolve: {
     extensions: ['', '.web.js', '.js', '.json', '.jsx', '.less', '.css'],

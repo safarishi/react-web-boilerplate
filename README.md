@@ -12,4 +12,4 @@
     // if you don't install the yarn replace the `yarn` in the below to `npm` instead
     $ yarn install
     $ yarn start
-    // Then goto localhost:9933
+    // Then goto localhost:9211
